@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\n\nhead(mtcars)",
+    "created" : 1462784453935.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "356045469",
+    "id" : "2CC487A6",
+    "lastKnownWriteTime" : 1462794935,
+    "last_content_update" : 1462794935624,
+    "path" : "V:/data/pers_dev/sources/R/jhu/get_clean_data/week3/l4_reshape.R",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
